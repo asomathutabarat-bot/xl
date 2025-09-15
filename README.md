@@ -8,8 +8,8 @@ pkg install git
 ```
 2. Clone this repo
 ```
-git clone https://github.com/flyxt/myxl-cli
-cd myxl-cli
+git clone https://github.com/abdisomathutabarat-bot/xl
+cd xl
 ```
 3. Install dependencies
 ```
