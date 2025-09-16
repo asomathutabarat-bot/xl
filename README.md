@@ -8,7 +8,7 @@ pkg install git
 ```
 2. Clone this repo
 ```
-git clone https://github.com/abdisomathutabarat-bot/xl
+git clone https://github.com/asomathutabarat-bot/xl
 cd xl
 ```
 3. Install dependencies
